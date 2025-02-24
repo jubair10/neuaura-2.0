@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Compititive Programming/graph striver"
+		},
+		{
+			"name": "cam_research",
+			"path": "."
+		},
+		{
+			"name": "cam_research rev 1.0",
+			"path": "../cam_research rev 1.0"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sdkconfig.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}

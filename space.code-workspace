@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "esp_cam_rev 1.0"
+		},
+		{
+			"path": "esp_rev 1.0"
+		},
+		{
+			"path": "Rev 1.0"
+		},
+		{
+			"path": "Rev 2.0"
+		},
+		{
+			"path": "industrial-security"
+		},
+		{
+			"path": "tests"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}
